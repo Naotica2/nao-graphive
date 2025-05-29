@@ -20,14 +20,6 @@ userMenuBtn.addEventListener('click', e => {
 document.addEventListener('click', () => socialMenu.style.display = 'none');
 socialMenu.addEventListener('click', e => e.stopPropagation());
 
-  const interval = setInterval(() => {
-    const previewBar = document.querySelector('div[style*="height: 36px"][style*="background-color: rgb"]');
-    if (previewBar) {
-      previewBar.remove();
-      clearInterval(interval);
-    }
-  }, 500);
-
 // === Gallery Fetch + Render ===
 const gallery = document.getElementById('gallery');
 let currentDownloadURL = "";
