@@ -1,0 +1,102 @@
+[
+  {
+    "src": "asset/bened.png",
+    "alt": "Mobile Legends",
+    "username": "rshyaa",
+    "title": "Mobile Legends",
+    "description": "Mommy benet aseli coyh.",
+    "likes": 0,
+    "comments": 1,
+    "location": "Alight Motion",
+    "tags": "gfx wp",
+    "download": "https://files.catbox.moe/yutw2e.png",
+    "commentList": [
+      {
+        "user": "seseorang",
+        "text": "benet gwe gaot aseli"
+      }
+    ]
+  },
+  {
+    "src": "asset/wuwa.png",
+    "alt": "Wuthering Waves",
+    "username": "rshyaa",
+    "title": "Wuthering Waves",
+    "description": "zani si budak montelipler kasian jir.",
+    "likes": 1,
+    "comments": 2,
+    "location": "Alight Motion",
+    "tags": "gfx",
+    "download": "https://files.catbox.moe/2751rt.png",
+    "commentList": [
+      {
+        "user": "Womwo",
+        "text": "aku suka zani doang anjing lu montelli"
+      },
+      {
+        "user": "Gimvran",
+        "text": "istri gw tuh changli"
+      }
+    ]
+  },
+    {
+    "src": "asset/pors.png",
+    "alt": "Porsche 911",
+    "username": "rshyaa",
+    "title": "Porsche 911",
+    "description": "Mobil porsche 911 gt2 rs.",
+    "likes": 0,
+    "comments": 0,
+    "location": "Alight Motion",
+    "tags": "gfx",
+    "download": "https://files.catbox.moe/8ewqi9.png",
+    "commentList": [
+    ]
+  },
+    {
+    "src": "asset/mugi.png",
+    "alt": "K-ON",
+    "username": "rshyaa",
+    "title": "mugi k-on",
+    "description": "mugi si olang kaya bos besar solo all anime.",
+    "likes": 0,
+    "comments": 0,
+    "location": "Alight Motion",
+    "tags": "gfx",
+    "download": "https://files.catbox.moe/0shyjp.png",
+    "commentList": [
+    ]
+  },
+  {
+    "src": "asset/tamnel.png",
+    "alt": "THUMBNAIL",
+    "username": "rshyaa",
+    "title": "thumbnail youtube",
+    "description": "Thumbnail youtube coy.",
+    "likes": 1,
+    "comments": 1,
+    "location": "Alight Motion",
+    "tags": "gfx",
+    "download": "https://files.catbox.moe/icqz5c.png",
+    "commentList": [
+      {
+        "user": "ariri",
+        "text": "jangan produktif wy tetap malas"
+      }
+    ]
+  },
+ {
+    "src": "asset/britannian.png",
+    "alt": "Code Geass",
+    "username": "rshyaa",
+    "title": "C. C",
+    "description": "Anomali ijo C. C btw ALL HAIL LELOUCH!",
+    "likes": 0,
+    "comments": 0,
+    "location": "Alight Motion",
+    "tags": "gfx",
+    "download": "https://files.catbox.moe/mvv10z.png",
+    "commentList": [
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+/* === Masonry Layout === */
+.masonry {
+  column-count: 1;
+  column-gap: 1rem;
+}
+@media (min-width: 640px) {
+  .masonry {
+    column-count: 2;
+  }
+}
+@media (min-width: 1024px) {
+  .masonry {
+    column-count: 3;
+  }
+}
+@media (min-width: 1280px) {
+  .masonry {
+    column-count: 4;
+  }
+}
+
+/* === Pin Card === */
+.pin-card {
+  break-inside: avoid;
+  margin-bottom: 1rem;
+}
+
+.pin-image-container {
+  width: 100%;
+  overflow: hidden;
+  border-radius: 0.75rem;
+}
+
+.pin-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.pin-card:hover .pin-image {
+  transform: scale(1.03);
+}
+
+/* === Tag Filter Button === */
+.tag-filter.active {
+  background-color: #ef4444; /* red-500 */
+  color: white;
+}
+
+/* === Modal Transition === */
+.modal {
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  transform: scale(0.9);
+  opacity: 0;
+}
+
+.modal.active {
+  transform: scale(1);
+  opacity: 1;
+}
