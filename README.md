@@ -1,5 +1,5 @@
 # 🎨 Archive GFX - NAO GRAPHIVE
-mY Recap is a simple web gallery project made to archive and showcase personal graphic design (GFX) works. From posters and thumbnails to wallpapers—each piece reflects a unique visual style, often paired with a bit of humor in the captions.
+NAO GRAPHIVE is a simple web gallery project made to archive and showcase personal graphic design (GFX) works. From posters and thumbnails to wallpapers—each piece reflects a unique visual style, often paired with a bit of humor in the captions.
 
 ## ✨ Features
 **Project categories: Graphic Design, Wallpaper, Pixel Art**
